@@ -6,7 +6,7 @@ import CtaSeven from "@/components/cta/CtaSeven";
 import Accordion from "react-bootstrap/Accordion";
 export default function Home() {
     const styling = {
-        backgroundImage: `url(assets/images/career/03.webp)`,
+        backgroundImage: `url(assets/images/career/career3.avif)`,
     };
     return (
         <div className='#'>
@@ -36,7 +36,7 @@ export default function Home() {
                             </div>
                             <div className="col-lg-6 mt_md--30 mt_sm--30 wow fadeInRight">
                                 <div className="thumbnail-top">
-                                    <img src="assets/images/career/01.webp" alt="career" />
+                                    <img src="assets/images/career/career2.jpg" alt="career" />
                                 </div>
                             </div>
                         </div>
@@ -48,7 +48,7 @@ export default function Home() {
                         <div className="row">
                             <div className="col-lg-6">
                                 <div className="thumbnail-career-two wow fadeInLeft">
-                                    <img src="assets/images/career/02.webp" alt="career" />
+                                    <img src="assets/images/career/career1.jpg" alt="career" />
                                 </div>
                             </div>
                             <div className="col-lg-6 pl--50 pl_md--15 pl_sm--10 mt_md--30 pt_sm--30">

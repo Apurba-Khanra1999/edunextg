@@ -18,7 +18,7 @@ function ServiceFour() {
                     </div>
                     <div className="title-area">
                     <a href="/service-single">
-                        <h3 className="title">Machine Learning</h3>
+                        <h3 className="title">Dependability</h3>
                         <ReactSVG
                         src="assets/images/service/icons/21.svg"
                         alt="icosn"
@@ -36,7 +36,7 @@ function ServiceFour() {
                     </div>
                     <div className="title-area">
                     <a href="/service-single">
-                        <h3 className="title">Cloud Migration</h3>
+                        <h3 className="title">Market Credibility</h3>
                         <ReactSVG
                         src="assets/images/service/icons/21.svg"
                         alt="icosn"
@@ -54,7 +54,7 @@ function ServiceFour() {
                     </div>
                     <div className="title-area">
                     <a href="/service-single">
-                        <h3 className="title">Cyber Security</h3>
+                        <h3 className="title">Expertise</h3>
                         <ReactSVG
                         src="assets/images/service/icons/21.svg"
                         alt="icosn"

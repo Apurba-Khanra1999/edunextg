@@ -51,11 +51,7 @@ function Testimonials() {
                                         <SwiperSlide>
                                             <div className="single-testimonials-4">
                                                 <p className="disc">
-                                                    “The data analytics solution provided by Luminous has
-                                                    revolutionized our research capabilities. Their team
-                                                    expertise in handling large datasets and creating
-                                                    insightful visualizations has accelerated our drug
-                                                    discovery process.”
+                                                    “The school authority of St. Mary's School, Malda is well satisfied with your products and kind service which are very reliable.”
                                                 </p>
                                                 <div className="user-area">
                                                     <img
@@ -63,8 +59,8 @@ function Testimonials() {
                                                         alt="testimonials"
                                                     />
                                                     <div className="info-area">
-                                                        <h6 className="title">Deon Kar</h6>
-                                                        <span>Operations Manager at CloudNine</span>
+                                                        <h6 className="title">Fr. Kishore Baxla</h6>
+                                                        <span>St. Mary's School</span>
                                                     </div>
                                                 </div>
                                             </div>

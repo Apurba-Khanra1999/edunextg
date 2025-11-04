@@ -10,10 +10,7 @@ function Wedo() {
                         <div className="col-lg-12">
                             <div className="what-we-do-wrapper-about">
                                 <p className="disc">
-                                    Luminous is a leading IT solutions company that provides
-                                    innovative technology services to businesses of all sizes. We
-                                    specialize in cloud computing, cybersecurity, data analytics, and
-                                    custom software development.
+                                    EduNextG is a technology-driven Indian company founded in 2017 with the mission of revolutionizing the education system by helping institutions use the latest technology for effective knowledge delivery. They focus on prsoviding innovative solutions to current and future educational barriers, aiming to improve the teaching-learning experience.
                                 </p>
                             </div>
                         </div>
@@ -27,10 +24,9 @@ function Wedo() {
                             <div className="what-we-do-main-wrapper">
                                 <h5 className="title">What we do?</h5>
                                 <p className="disc">
-                                    We bring together all the necessary technology and services to
-                                    help our clients solve their business problems.
+                                    Founded in 2017, EduNextG is an Indian technology company dedicated to revolutionizing education. They help institutions use the latest technology for effective knowledge delivery, improving the teaching-learning experience. Serving a broad clientele, including industry and government, EduNextG emphasizes that education is their primary mission, not just a business.
                                 </p>
-                                <a href="#" className="rts-btn btn-border btn-bold">
+                                <a href="/contact" className="rts-btn btn-border btn-bold">
                                     Get in touch
                                     <img src="assets/images/service/icons/13.svg" alt="arrow" />
                                 </a>
@@ -42,12 +38,11 @@ function Wedo() {
                             data-wow-delay=".6s"
                         >
                             <div className="what-we-do-main-wrapper">
-                                <h5 className="title">Our Career</h5>
+                                <h5 className="title">Dedicated Support</h5>
                                 <p className="disc">
-                                    We bring together all the necessary technology and services to
-                                    help our clients solve their business problems.
+                                    We have strong customer support facility with indigenous mobile application which provides real time solutions for each and every issue. Our experts walk that extra mile to protect the customer’s interest and that’s why we are unique.
                                 </p>
-                                <a href="#" className="rts-btn btn-border btn-bold">
+                                <a href="/contact" className="rts-btn btn-border btn-bold">
                                     Career
                                     <img src="assets/images/service/icons/13.svg" alt="arrow" />
                                 </a>

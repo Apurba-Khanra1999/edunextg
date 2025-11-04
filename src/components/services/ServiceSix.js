@@ -37,7 +37,7 @@ function ServiceSix() {
                                 </div>
                                 <div className="title-area">
                                     <a href="/service-single">
-                                        <h3 className="title animated fadeIn">IT Strategies</h3>
+                                        <h3 className="title animated fadeIn">Hardware Solutions</h3>
                                         <img
                                             className="injectable"
                                             src="assets/images/service/icons/21.svg"
@@ -56,7 +56,7 @@ function ServiceSix() {
                                 </div>
                                 <div className="title-area">
                                     <a href="/service-single">
-                                        <h3 className="title animated fadeIn">Cloud Migration</h3>
+                                        <h3 className="title animated fadeIn">Software Solutions</h3>
                                         <img
                                             className="injectable"
                                             src="assets/images/service/icons/21.svg"
@@ -75,7 +75,7 @@ function ServiceSix() {
                                 </div>
                                 <div className="title-area">
                                     <a href="/service-single">
-                                        <h3 className="title animated fadeIn">Cyber Security</h3>
+                                        <h3 className="title animated fadeIn">Services Solutions</h3>
                                         <img
                                             className="injectable"
                                             src="assets/images/service/icons/21.svg"
@@ -94,7 +94,7 @@ function ServiceSix() {
                                 </div>
                                 <div className="title-area">
                                     <a href="/service-single">
-                                        <h3 className="title animated fadeIn">Development</h3>
+                                        <h3 className="title animated fadeIn">Customer Support</h3>
                                         <img
                                             className="injectable"
                                             src="assets/images/service/icons/21.svg"
@@ -104,7 +104,7 @@ function ServiceSix() {
                                 </div>
                             </div>
                         </div>
-                        <div
+                        {/* <div
                             className="col-xl-3 col-lg-4 col-md-6 col-sm-12" data-aos="fade-up" data-aos-delay="100" data-aos-duration="1000"
                         >
                             <div className="single-service-area-4 in-about-page">
@@ -179,7 +179,7 @@ function ServiceSix() {
                                     </a>
                                 </div>
                             </div>
-                        </div>
+                        </div> */}
                     </div>
                     <div className="row">
                         <div className="col-lg-12 d-flex justify-content-center">

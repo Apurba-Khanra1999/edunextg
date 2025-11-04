@@ -37,13 +37,16 @@
 
 import BannerFour from "@/components/banner/BannerFour";
 import BlogFour from "@/components/blog/BlogFour";
-import CaseFive from "@/components/casestudies/CaseFive";
+import BrandArea from "@/components/brand/Brand";
 import BackToTop from "@/components/common/BackToTop";
 import CtaThree from "@/components/cta/CtaThree";
 import FooterThree from "@/components/footer/FooterThree";
 import HeaderOne from "@/components/header/HeaderOne";
 import ServiceFive from "@/components/services/ServiceFive";
 import ServiceFour from "@/components/services/ServiceFour";
+import ServiceOne from "@/components/services/ServiceOne";
+import ServiceSeven from "@/components/services/ServiceSeven";
+import Testimonials from "@/components/testimonials/TestimonialsFive";
 import TestimonialsFour from '@/components/testimonials/TestimonialsFour';
 
 export default function Home() {
@@ -53,7 +56,9 @@ export default function Home() {
       <BannerFour />
       <ServiceFour />
       <ServiceFive />
-      <CaseFive />
+      <ServiceOne/>
+      <ServiceSeven/>
+      <BrandArea/>
       <TestimonialsFour />
       <BlogFour />
       <CtaThree />

@@ -24,7 +24,7 @@ function page() {
                         <div className="col-lg-4">
                             <div className="thumbnail-banner-choose-us jarallax" data-speed=".8">
                                 <img
-                                    src="assets/images/banner/06.webp"
+                                    src="assets/images/banner/banner-image-1.avif"
                                     className="jarallax-img"
                                     alt="banner"
                                 />
@@ -33,7 +33,7 @@ function page() {
                         <div className="col-lg-8">
                             <div className="thumbnail-banner-choose-us jarallax" data-speed=".8">
                                 <img
-                                    src="assets/images/banner/07.webp"
+                                    src="assets/images/banner/banner-image-2.avif"
                                     className="jarallax-img"
                                     alt="banner"
                                 />
@@ -95,7 +95,7 @@ function page() {
                         </div>
                         <div className="col-lg-7">
                             <div className="thumbnail-main-wrapper-choose-us">
-                                <img src="assets/images/service/09.webp" alt="service" />
+                                <img src="assets/images/service/whychooseus1.jpg" alt="service" />
                             </div>
                         </div>
                     </div>
@@ -119,7 +119,7 @@ function page() {
                                 </div>
                             </div>
                             <div className="thumbnail-working-process">
-                                <img src="assets/images/service/10.webp" alt="" />
+                                <img src="assets/images/service/whychooseus2.avif" alt="" />
                             </div>
                         </div>
                         <div className="col-lg-6">
@@ -238,7 +238,7 @@ function page() {
                         </div>
                         <div className="col-lg-6">
                             <div className="why-choose-faq-thumbnail">
-                                <img src="assets/images/why-choose-us/01.webp" alt="why" />
+                                <img src="assets/images/service/whychooseus3.jpg" alt="why" />
                             </div>
                         </div>
                     </div>

@@ -9,10 +9,10 @@ import "swiper/css/pagination";
 export default function TestimonialsThree() {
   const testimonials = [
     {
-      text: "Luminous transformed our agricultural business with their custom software solution. Their team developed an intuitive crop management system that has increased our yield by 30% and significantly reduced water waste.",
+      text: "The school authority of St. Mary's School, Malda is well satisfied with your products and kind service which are very reliable.",
       image: "/assets/images/testimonials/01.png",
-      name: "Michael Chen",
-      position: "CTO of SwiftPay Financial",
+      name: "Fr. Kishore Baxla",
+      position: "St. Mary's School",
     },
     {
       text: "Luminous transformed our agricultural business with their custom software solution. Their team developed an intuitive crop management system that has increased our yield by 30% and significantly reduced water waste.",

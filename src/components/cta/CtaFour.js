@@ -25,7 +25,7 @@ function CtaFour() {
                   and how Luminous can elevate your business technology.
                 </p>
                 <a
-                  href="#"
+                  href="/contact"
                   className="rts-btn btn-primary" data-aos="fade-up" data-aos-duration="1000" data-aos-delay="500"
                 >
                   View Solutions

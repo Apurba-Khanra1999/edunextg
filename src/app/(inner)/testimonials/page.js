@@ -28,7 +28,7 @@ export default function Home() {
                                     <div className="thumbnail-large jarallax" data-speed=".7">
                                         <img
                                             className="jarallax-img"
-                                            src="assets/images/partner/04.webp"
+                                            src="assets/images/partner/testimonials-1.jpg"
                                             alt="partner"
                                         />
                                     </div>

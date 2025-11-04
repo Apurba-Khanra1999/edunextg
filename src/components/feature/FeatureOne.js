@@ -19,7 +19,7 @@ function FeatureOne() {
                             <div className="thumbnail-about-mid jarallax">
                                 <img
                                     className="jarallax-img"
-                                    src="assets/images/about/02.webp"
+                                    src="assets/images/about/team1.avif"
                                     alt="about"
                                 />
                             </div>
@@ -28,7 +28,7 @@ function FeatureOne() {
                             <div className="thumbnail-about-mid jarallax">
                                 <img
                                     className="jarallax-img"
-                                    src="assets/images/about/03.webp"
+                                    src="assets/images/about/team2.avif"
                                     alt="about"
                                 />
                             </div>

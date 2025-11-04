@@ -37,7 +37,7 @@ export default function Home() {
                                 >
                                     <img
                                         className="jarallax-img"
-                                        src="assets/images/industry/01.webp"
+                                        src="assets/images/industry/industry1.jpg"
                                         alt="career"
                                     />
                                 </div>
@@ -53,7 +53,7 @@ export default function Home() {
                                     <div className="thumbnail-consultancy jarallax">
                                         <img
                                             className="jarallax-img"
-                                            src="assets/images/industry/02.webp"
+                                            src="assets/images/industry/industry2.avif"
                                             alt="consultancy"
                                         />
                                     </div>
@@ -146,7 +146,7 @@ export default function Home() {
                                     <div className="thumbnail-consultancy jarallax">
                                         <img
                                             className="jarallax-img"
-                                            src="assets/images/industry/03.webp"
+                                            src="assets/images/industry/industry3.jpg"
                                             alt="consultancy"
                                         />
                                     </div>
@@ -195,10 +195,10 @@ export default function Home() {
                             <div className="col-lg-6">
                                 <div className="thumbnail-industry-thumbnail">
                                     <div className="thumbnail-left left-small ">
-                                        <img src="assets/images/industry/06.webp" alt="industry" />
+                                        <img src="assets/images/industry/industry4.jpg" alt="industry" />
                                     </div>
                                     <div className="thumbnail-left top">
-                                        <img src="assets/images/industry/07.webp" alt="industry" />
+                                        <img src="assets/images/industry/industry5.avif" alt="industry" />
                                     </div>
                                 </div>
                             </div>

@@ -9,7 +9,7 @@ function AboutBanner() {
         }
     }, []);
     const styling = {
-        backgroundImage: `url(assets/images/about/01.webp)`,
+        backgroundImage: `url(assets/images/about/banner-banner.jpg)`,
     };
     return (
         <div>
@@ -37,9 +37,9 @@ function AboutBanner() {
                                     <div className="icon-area">
                                         <img src="assets/images/about/icons/02.svg" alt="icon" />
                                     </div>
-                                    <p>Community users</p>
+                                    <p>Clients</p>
                                     <h3 className="title">
-                                        <span className="counter">2.5</span>M
+                                        <span className="counter">45</span>
                                     </h3>
                                 </div>
                             </div>
@@ -48,9 +48,9 @@ function AboutBanner() {
                                     <div className="icon-area">
                                         <img src="assets/images/about/icons/03.svg" alt="icon" />
                                     </div>
-                                    <p>Enhance Security</p>
+                                    <p>Item Sold</p>
                                     <h3 className="title">
-                                        <span className="counter">89</span>%
+                                        <span className="counter">1277</span>
                                     </h3>
                                 </div>
                             </div>
@@ -59,9 +59,9 @@ function AboutBanner() {
                                     <div className="icon-area">
                                         <img src="assets/images/about/icons/04.svg" alt="icon" />
                                     </div>
-                                    <p>Reduce Costs</p>
+                                    <p>Projects</p>
                                     <h3 className="title">
-                                        <span className="counter">720</span>
+                                        <span className="counter">97</span>
                                     </h3>
                                 </div>
                             </div>

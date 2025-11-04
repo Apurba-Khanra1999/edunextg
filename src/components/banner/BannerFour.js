@@ -23,16 +23,16 @@ function BannerFour() {
                                 <div className="inner-left">
                                     <h1
                                         className="title" data-aos="fade-up" data-aos-delay="100" data-aos-duration="1000">
-                                        Empowering Tomorrow’s Innovations, Today
+                                        Your Challenge is our Progress
                                     </h1>
                                     <p
                                         className="disc" data-aos="fade-up" data-aos-delay="300" data-aos-duration="1000"
                                     >
-                                        We not just IT providers – were your strategic partners in
-                                        digital transformation. With over a decade of experience and a
-                                        team of certified experts, we deliver tailored solutions that
-                                        drive growth, enhance efficiency, and secure your digital
-                                        assets.
+                                        Committed to Lifelong Learning Platform In A Caring Environment. 
+                                Lead The Way To A Brighter Day With Innovation. We teach, model, and encourage a love of learning collaboration. Building community by honoring all transactions.
+                                                    
+
+                            
                                     </p>
                                 </div>
                                 <div

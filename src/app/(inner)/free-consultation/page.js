@@ -44,7 +44,7 @@ export default function Home() {
                                 >
                                     <img
                                         className="jarallax-img"
-                                        src="assets/images/consultancy/02.webp"
+                                        src="assets/images/consultancy/free6.jpg"
                                         alt="career"
                                     />
                                 </div>
@@ -59,7 +59,7 @@ export default function Home() {
                                 <div className="thumbnail-consultancy" data-aos="zoom-out" data-aos-duration="1000" data-aos-delay="100">
                                     <img
                                         className="jarallax-img"
-                                        src="assets/images/consultancy/01.webp"
+                                        src="assets/images/consultancy/free5.avif"
                                         alt="consultancy"
                                     />
                                 </div>
@@ -123,7 +123,7 @@ export default function Home() {
                                     <div className="timeline-line" />
                                     <div className="single-consulting-one">
                                         <div className="thumbnail">
-                                            <img src="assets/images/consultancy/03.webp" alt="consulting" />
+                                            <img src="assets/images/consultancy/free-4.jpg" alt="consulting" />
                                         </div>
                                         <div className="right-area">
                                             <h4 className="title">Discovery Phase</h4>
@@ -137,7 +137,7 @@ export default function Home() {
                                     </div>
                                     <div className="single-consulting-one">
                                         <div className="thumbnail">
-                                            <img src="assets/images/consultancy/04.webp" alt="consulting" />
+                                            <img src="assets/images/consultancy/free-3.jpg" alt="consulting" />
                                         </div>
                                         <div className="right-area">
                                             <h4 className="title">Analysis</h4>
@@ -151,7 +151,7 @@ export default function Home() {
                                     </div>
                                     <div className="single-consulting-one">
                                         <div className="thumbnail">
-                                            <img src="assets/images/consultancy/05.webp" alt="consulting" />
+                                            <img src="assets/images/consultancy/free-2.jpg" alt="consulting" />
                                         </div>
                                         <div className="right-area">
                                             <h4 className="title">Strategy Design</h4>
@@ -163,7 +163,7 @@ export default function Home() {
                                     </div>
                                     <div className="single-consulting-one">
                                         <div className="thumbnail">
-                                            <img src="assets/images/consultancy/06.webp" alt="consulting" />
+                                            <img src="assets/images/consultancy/free-1.jpg" alt="consulting" />
                                         </div>
                                         <div className="right-area">
                                             <h4 className="title">Implementation</h4>
