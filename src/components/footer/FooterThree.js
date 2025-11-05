@@ -16,39 +16,30 @@ function FooterThree() {
                         <img src="/assets/images/logo/edunextg-logo-blue.png" alt="logo" width={160} />
                     </Link>
                     <p className="disc">
-                        Luminous is a leading IT solutions company that provides
-                        innovative technology services to businesses of all sizes.
+                        EduNextG is a technology driven Company catering to the specific requirements of the Educational Institutions across India. We are a fast growing educational enterprise focusing on the present and future educational barriers and evolving with innovative solutions.
                     </p>
                     </div>
                 </div>
                 <div className="col-lg-7">
                     <div className="row g-5">
-                    <div className="col-lg-3 col-md-6 col-sm-6 col-12">
+                    <div className="col-lg-4 col-md-6 col-sm-6 col-12">
                         <div className="single-nav-area-footer">
-                        <p className="parent">Services</p>
+                        <p className="parent">Products</p>
                         <ul>
                             <li>
-                            <Link href="/technologies-service">Technologies</Link>
+                            <Link href="/technologies-service">Hardware Solution</Link>
                             </li>
                             <li>
-                            <Link href="/ai-learning-service">Ai Learning</Link>
+                            <Link href="/ai-learning-service">Software Solution</Link>
                             </li>
                             <li>
-                            <Link href="/it-strategies">IT Strategies</Link>
+                            <Link href="/it-strategies">Services</Link>
                             </li>
-                            <li>
-                            <Link href="/it-consulting-service">It Consulting</Link>
-                            </li>
-                            <li>
-                            <Link href="/management-service">Management</Link>
-                            </li>
-                            <li>
-                            <Link href="/service-single">Cloud Migration</Link>
-                            </li>
+                            
                         </ul>
                         </div>
                     </div>
-                    <div className="col-lg-3 col-md-6 col-sm-6 col-12">
+                    <div className="col-lg-4 col-md-6 col-sm-6 col-12">
                         <div className="single-nav-area-footer">
                         <p className="parent">Company</p>
                         <ul>
@@ -59,66 +50,33 @@ function FooterThree() {
                             <Link href="/career">Careers</Link>
                             </li>
                             <li>
-                            <Link href="/team">Our Team</Link>
+                            <Link href="/why-choose-us">Why Choose Us</Link>
                             </li>
                             <li>
-                            <Link href="/blog-grid">News</Link>
+                            <Link href="/testimonials">Testimonials</Link>
                             </li>
                             <li>
-                            <Link href="/partner">Partner</Link>
+                            <Link href="/faq">FAQ</Link>
+                            </li>
+                            
+                        </ul>
+                        </div>
+                    </div>
+                    <div className="col-lg-4 col-md-6 col-sm-6 col-12">
+                        <div className="single-nav-area-footer">
+                        <p className="parent">Important Links</p>
+                        <ul>
+                            <li>
+                            <Link href="/free-consultation">Free Consultation</Link>
+                            </li>
+                            <li>
+                            <Link href="/privacy-policy">Privacy Policy</Link>
                             </li>
                             <li>
                             <Link href="/contact">Contact</Link>
                             </li>
-                        </ul>
-                        </div>
-                    </div>
-                    <div className="col-lg-3 col-md-6 col-sm-6 col-12">
-                        <div className="single-nav-area-footer">
-                        <p className="parent">Industrys</p>
-                        <ul>
                             <li>
-                            <Link href="/construction-industry">Construction</Link>
-                            </li>
-                            <li>
-                            <Link href="/healthcare-industry">Healthcare</Link>
-                            </li>
-                            <li>
-                            <Link href="/ecommerce-industry">Ecommerce</Link>
-                            </li>
-                            <li>
-                            <Link href="/fintech-industry">Fintech</Link>
-                            </li>
-                            <li>
-                            <Link href="/logistic-industry">Logistic</Link>
-                            </li>
-                            <li>
-                            <Link href="/travel-industry">Travel Industry</Link>
-                            </li>
-                        </ul>
-                        </div>
-                    </div>
-                    <div className="col-lg-3 col-md-6 col-sm-6 col-12">
-                        <div className="single-nav-area-footer">
-                        <p className="parent">Legal</p>
-                        <ul>
-                            <li>
-                            <Link href="/terms-of-use">Terms</Link>
-                            </li>
-                            <li>
-                            <Link href="/privacy-policy">Privacy</Link>
-                            </li>
-                            <li>
-                            <Link href="/cookies-policy">Cookies</Link>
-                            </li>
-                            <li>
-                            <Link href="/faq">Faq</Link>
-                            </li>
-                            <li>
-                            <Link href="/free-consultation">Consultation</Link>
-                            </li>
-                            <li>
-                            <Link href="/contact">Contact</Link>
+                            <Link href="#">Blog</Link>
                             </li>
                         </ul>
                         </div>
@@ -135,22 +93,27 @@ function FooterThree() {
                 <div className="row">
                 <div className="col-lg-12">
                     <div className="copyright-wrapper">
-                    <p>© 2024 Luminos. All rights reserved.</p>
+                    <p>© 2024 Edunextg. All rights reserved.</p>
                     <div className="social-copyright-area">
                         <ul>
                         <li>
-                            <Link href="/#">
+                            <Link href="https://www.facebook.com/EDUNextG/">
                             <i className="fa-brands fa-facebook-f" />
                             </Link>
                         </li>
                         <li>
-                            <Link href="/#">
+                            <Link href="https://x.com/EduNextG">
                             <i className="fa-brands fa-twitter" />
                             </Link>
                         </li>
                         <li>
-                            <Link href="/#">
+                            <Link href="https://www.youtube.com/channel/UC5estb9VaTKaS4c-rpu38SQ">
                             <i className="fa-brands fa-youtube" />
+                            </Link>
+                        </li>
+                        <li>
+                            <Link href="https://www.instagram.com/edunextg_group/">
+                            <i className="fa-brands fa-instagram" />
                             </Link>
                         </li>
                         <li>
