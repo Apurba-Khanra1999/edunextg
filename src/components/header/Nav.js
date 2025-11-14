@@ -274,7 +274,7 @@ function Nav() {
                                                 <li>
                                                     <Link
                                                         className="single-service-area-wrapper"
-                                                        href="/it-strategies"
+                                                        href="/products/hardware"
                                                     >
                                                         <div className="icon">
                                                             <img
@@ -350,7 +350,7 @@ function Nav() {
                                                 <li>
                                                     <Link
                                                         className="single-service-area-wrapper"
-                                                        href="/development-service"
+                                                        href="/products/software"
                                                     >
                                                         <div className="icon">
                                                             <img
@@ -374,7 +374,7 @@ function Nav() {
                                                 <li>
                                                     <Link
                                                         className="single-service-area-wrapper"
-                                                        href="/ai-learning-service"
+                                                        href="/products/services"
                                                     >
                                                         <div className="icon">
                                                             <img
@@ -497,6 +497,11 @@ function Nav() {
                                 Contact
                             </Link>
                         </li>
+                        {/* <li>
+                            <Link className="nav-link" href="/blog-grid">
+                                Contact
+                            </Link>
+                        </li> */}
                     </ul>
                 </nav>
             </div>
