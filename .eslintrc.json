@@ -1,0 +1,4 @@
+{
+  "extends": "next/core-web-vitals",
+  "build": "DISABLE_ESLINT_PLUGIN=true next build",
+}
