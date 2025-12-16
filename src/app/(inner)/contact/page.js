@@ -131,13 +131,14 @@ export default function Home() {
                     </div>
                 </div>
                 {/* contact area form wrapper end */}
+                {/* Google Map Area Start */}
                 <div className="rts-google-map-area rts-section-gapTop">
                     <div className="container">
                         <div className="row">
                             <div className="col-lg-12">
                                 <div className="google-map-wrapper">
                                     <iframe
-                                        src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d58418.94421839912!2d90.423296!3d23.7764608!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sen!2sbd!4v1731922050679!5m2!1sen!2sbd"
+                                        src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3683.500331509641!2d88.42815741496003!3d22.597784185169797!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMjLCsDM1JzUyLjAiTiA4OMKwMjUnNDkuMyJF!5e0!3m2!1sen!2sin!4v1633611900926!5m2!1sen!2sin"
                                         width={600}
                                         height={500}
                                         style={{ border: 0 }}
@@ -150,7 +151,9 @@ export default function Home() {
                         </div>
                     </div>
                 </div>
+                {/* Google Map Area End */}
                 {/* rts location area start */}
+                {/* 3 card Section Start  */}
                 <div className="rts-location-contact-area pt--70">
                     <div className="container">
                         <div className="row section-seperator-b pb--90 g-5">
@@ -159,8 +162,8 @@ export default function Home() {
                                     <div className="icon">
                                         <i className="fa-sharp fa-regular fa-location-dot" />
                                     </div>
-                                    <p>Retail store</p>
-                                    <span>Mon-Sat 9am to 5pm.</span>
+                                    <p>Address</p>
+                                    <span>AF-333, Rabindrapally, Talbagan, P.O. Prafulla Kanan, Kolkata-700101</span>
                                 </div>
                             </div>
                             <div className="col-lg-4 col-md-6 col-sm-12">
@@ -168,8 +171,8 @@ export default function Home() {
                                     <div className="icon">
                                         <i className="fa-sharp fa-regular fa-location-dot" />
                                     </div>
-                                    <p>Showroom</p>
-                                    <span>Mon-Fri 9am to 5pm.</span>
+                                    <p>Send us Mail</p>
+                                    <a href="mailto:edunextg@gmail.com"><span>edunextg@gmail.com</span></a>
                                 </div>
                             </div>
                             <div className="col-lg-4 col-md-6 col-sm-12">
@@ -177,13 +180,16 @@ export default function Home() {
                                     <div className="icon">
                                         <i className="fa-sharp fa-regular fa-location-dot" />
                                     </div>
-                                    <p>Head office</p>
-                                    <span>Mon-Sat 9am to 5pm.</span>
+                                    <p>Contacts</p>
+                                    <a href="tel:03340447558"> <span>033-40447558</span></a>  <br/>
+                                    <a href="tel:919088399919"> <span>+91 908 839 9919</span></a>
                                 </div>
                             </div>
                         </div>
                     </div>
                 </div>
+                {/* 3 card Section Start  */}
+
                 {/* rts location area end */}
             </>
 

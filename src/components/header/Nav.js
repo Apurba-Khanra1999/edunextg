@@ -35,6 +35,12 @@ function Nav() {
                                                         Why Choose Us?
                                                     </Link>
                                                 </li>
+                                                <li>
+                                                    <Link href="/organization-registration">
+                                                        <i className="fa-sharp fa-regular fa-chevron-right" />
+                                                        Organization Registration
+                                                    </Link>
+                                                </li>
                                             </ul>
                                         </div>
                                         <div className="col-lg-3">
@@ -51,6 +57,12 @@ function Nav() {
                                                         Testimonials
                                                     </Link>
                                                 </li>
+                                                <li>
+                                                    <Link href="/vendor-registration">
+                                                        <i className="fa-sharp fa-regular fa-chevron-right" />
+                                                        Vendor Registration
+                                                    </Link>
+                                                </li>
                                             </ul>
                                         </div>
                                         <div className="col-lg-3">
@@ -63,9 +75,15 @@ function Nav() {
                                                     </Link>
                                                 </li>
                                                 <li>
-                                                    <Link href="/industry">
+                                                    <Link href="/free-consultation">
                                                         <i className="fa-sharp fa-regular fa-chevron-right" />
-                                                        Industry
+                                                        Free Consultation
+                                                    </Link>
+                                                </li>
+                                                <li>
+                                                    <Link href="/terms-and-conditions">
+                                                        <i className="fa-sharp fa-regular fa-chevron-right" />
+                                                        Terms & Conditions
                                                     </Link>
                                                 </li>
                                             </ul>
@@ -74,15 +92,21 @@ function Nav() {
                                             <ul className="single-menu parent-nav">
                                                 
                                                 <li>
-                                                    <Link href="/free-consultation">
-                                                        <i className="fa-sharp fa-regular fa-chevron-right" />
-                                                        Free Consultation
-                                                    </Link>
-                                                </li>
-                                                <li>
                                                     <Link href="/privacy-policy">
                                                         <i className="fa-sharp fa-regular fa-chevron-right" />
                                                         Privacy Policy
+                                                    </Link>
+                                                </li>
+                                                <li>
+                                                    <Link href="/contact">
+                                                        <i className="fa-sharp fa-regular fa-chevron-right" />
+                                                        Enquire Us
+                                                    </Link>
+                                                </li>
+                                                <li>
+                                                    <Link href="/refund-and-cancellation">
+                                                        <i className="fa-sharp fa-regular fa-chevron-right" />
+                                                        Refund & Cancellation
                                                     </Link>
                                                 </li>
                                             </ul>

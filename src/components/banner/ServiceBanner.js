@@ -25,15 +25,14 @@ function ServiceBanner() {
                                     data-wow-offset={120}
                                     data-wow-delay=".4s"
                                 >
-                                    See how we help your team solve today’s biggest challenges
+                                    See how we help your business solve today’s biggest challenges
                                 </h1>
                                 <p
                                     className="disc wow fadeInUp"
                                     data-wow-offset={120}
                                     data-wow-delay=".6s"
                                 >
-                                    Offers a unified platform that fosters innovation while providing
-                                    end-to-end data management.
+                                    EduNextG provides comprehensive education and IT solutions, including smart class solutions, digital podiums, ERP systems, surveillance, and institutional infrastructure such as furniture, uniforms, and stationery.
                                 </p>
                             </div>
                         </div>

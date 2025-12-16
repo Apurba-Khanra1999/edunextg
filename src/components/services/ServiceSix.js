@@ -36,7 +36,7 @@ function ServiceSix() {
                                     <img src="assets/images/service/icons/39.svg" alt="service" />
                                 </div>
                                 <div className="title-area">
-                                    <a href="/service-single">
+                                    <a href="/products/hardware">
                                         <h3 className="title animated fadeIn">Hardware Solutions</h3>
                                         <img
                                             className="injectable"
@@ -55,7 +55,7 @@ function ServiceSix() {
                                     <img src="assets/images/service/icons/40.svg" alt="service" />
                                 </div>
                                 <div className="title-area">
-                                    <a href="/service-single">
+                                    <a href="/products/software">
                                         <h3 className="title animated fadeIn">Software Solutions</h3>
                                         <img
                                             className="injectable"
@@ -74,7 +74,7 @@ function ServiceSix() {
                                     <img src="assets/images/service/icons/35.svg" alt="service" />
                                 </div>
                                 <div className="title-area">
-                                    <a href="/service-single">
+                                    <a href="/products/services">
                                         <h3 className="title animated fadeIn">Services Solutions</h3>
                                         <img
                                             className="injectable"
@@ -93,7 +93,7 @@ function ServiceSix() {
                                     <img src="assets/images/service/icons/36.svg" alt="service" />
                                 </div>
                                 <div className="title-area">
-                                    <a href="/service-single">
+                                    <a href="/contact">
                                         <h3 className="title animated fadeIn">Customer Support</h3>
                                         <img
                                             className="injectable"
@@ -183,7 +183,7 @@ function ServiceSix() {
                     </div>
                     <div className="row">
                         <div className="col-lg-12 d-flex justify-content-center">
-                            <a href="service.html" className="rts-btn btn-border btn-bold mt--80">
+                            <a href="/service" className="rts-btn btn-border btn-bold mt--80">
                                 View all solutions
                                 <img src="assets/images/service/icons/13.svg" alt="arrow" />
                             </a>

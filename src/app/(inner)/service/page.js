@@ -23,7 +23,7 @@ export default function Home() {
             <SolutionCounter />
             <FeatureTwo />
             <CtaFive />
-            <TestimonialsFive/>
+            {/* <TestimonialsFive/> */}
             <CtaSix/>
             <FooterOne />
             <BackToTop />

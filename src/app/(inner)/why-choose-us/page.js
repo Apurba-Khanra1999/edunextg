@@ -16,7 +16,7 @@ function page() {
                     <div className="row">
                         <div className="col-lg-12">
                             <div className="banner-inner-why-choose-us">
-                                <h1 className="title">Experience the Difference with Luminos</h1>
+                                <h1 className="title">Experience the Difference with Edunextg</h1>
                             </div>
                         </div>
                     </div>
@@ -42,12 +42,7 @@ function page() {
                         <div className="col-lg-9 mt--50">
                             <div className="why-choose-intro-disc">
                                 <p>
-                                    we’re more than just an IT service provider – we’re your dedicated
-                                    partner in growth. Our team brings years of experience and
-                                    in-depth knowledge to every project, ensuring customized solutions
-                                    that align perfectly with your business goals. We prioritize
-                                    transparency, efficiency, and innovation, working closely with you
-                                    to deliver measurable results.
+                                    EduNextG India LLP partners with educational institutions to deliver innovative, reliable, and customized education and IT solutions. Guided by our belief that education is not just a business, we focus on enhancing teaching-learning experiences, protecting institutional investments, and building long-term relationships through quality products and dedicated support.
                                 </p>
                             </div>
                         </div>
@@ -61,28 +56,28 @@ function page() {
                     <div className="row">
                         <div className="col-lg-5">
                             <div className="luminos-main-solutioin-key">
-                                <h3 className="title">Choose Luminos IT Solutions for:</h3>
+                                <h3 className="title">Why Choose EduNextG India LLP</h3>
                                 <div className="check-wrapper">
                                     <div className="single-check">
                                         <img src="assets/images/service/01.svg" alt="service" />
-                                        <p>Expertise You Can Trust</p>
+                                        <p>Education-first philosophy</p>
                                     </div>
                                     <div className="single-check">
                                         <img src="assets/images/service/01.svg" alt="service" />
-                                        <p>Revolutionizing Customer Service</p>
+                                        <p>Customized, future-ready education solutions</p>
                                     </div>
                                     <div className="single-check">
                                         <img src="assets/images/service/01.svg" alt="service" />
-                                        <p>Transforming a Healthcare Provider</p>
+                                        <p>Strong focus on quality and ROI</p>
                                     </div>
                                     <div className="single-check">
                                         <img src="assets/images/service/01.svg" alt="service" />
-                                        <p>Enhancing Data-Driven Decisions</p>
+                                        <p>Reliable online and onsite support</p>
                                     </div>
                                 </div>
                                 <div className="tag-wrapper">
                                     <div className="single-tag">
-                                        <span>Risk Assessment</span>
+                                        <span>Asset Management</span>
                                     </div>
                                     <div className="single-tag">
                                         <span>IT Solutions</span>
@@ -113,8 +108,7 @@ function page() {
                                         Strategic IT Consulting to Drive Innovation and Growth
                                     </h2>
                                     <p>
-                                        We assess your current IT environment and create a customized
-                                        roadmap that aligns technology with your business objectives.
+                                        EduNextG India LLP is a fast-growing education technology company delivering innovative, customized solutions to educational institutions across India, with strong industry credibility and government project experience.
                                     </p>
                                 </div>
                             </div>
@@ -125,21 +119,20 @@ function page() {
                         <div className="col-lg-6">
                             <div className="single-working-process-choose-us wow fadeInUp">
                                 <h5 className="title">
-                                    Initial Consultation &amp; Needs Assessment
+                                    Know more about Edunextg India LLP
                                 </h5>
                                 <p>
-                                    We assess your current IT environment and create a customized
-                                    roadmap that aligns technology with your business objectives.
+                                    Guided by the belief that education is not just a business, EduNextG focuses on improving teaching-learning experiences through sustainable, quality-driven, and future-ready education and IT solutions.
                                 </p>
                                 <div className="tag-wrapper">
                                     <div className="single">
-                                        <span>IT Consulting</span>
+                                        <span>Education-First</span>
                                     </div>
                                     <div className="single">
-                                        <span>IT Solutions</span>
+                                        <span>Visionary</span>
                                     </div>
                                     <div className="single">
-                                        <span>Consulting Services</span>
+                                        <span>Impact-Driven</span>
                                     </div>
                                 </div>
                             </div>
@@ -148,21 +141,20 @@ function page() {
                                 data-wow-delay=".2s"
                             >
                                 <h5 className="title">
-                                    Initial Consultation &amp; Needs Assessment
+                                    Our Trusted Services
                                 </h5>
                                 <p>
-                                    We assess your current IT environment and create a customized
-                                    roadmap that aligns technology with your business objectives.
+                                    We offer smart classrooms, digital podiums, ERP, surveillance, and institutional solutions including furniture, uniforms, and stationery, providing a complete ecosystem for modern educational institutions.
                                 </p>
                                 <div className="tag-wrapper">
                                     <div className="single">
-                                        <span>IT Consulting</span>
+                                        <span>Digital Education</span>
                                     </div>
                                     <div className="single">
-                                        <span>IT Solutions</span>
+                                        <span>Infrastructure</span>
                                     </div>
                                     <div className="single">
-                                        <span>Consulting Services</span>
+                                        <span>End-to-End</span>
                                     </div>
                                 </div>
                             </div>
@@ -171,21 +163,20 @@ function page() {
                                 data-wow-delay=".4s"
                             >
                                 <h5 className="title">
-                                    Initial Consultation &amp; Needs Assessment
+                                    Why Choose EduNextG India LLP ?
                                 </h5>
                                 <p>
-                                    We assess your current IT environment and create a customized
-                                    roadmap that aligns technology with your business objectives.
+                                    EduNextG delivers tailored solutions, strong hardware and software protection, and dedicated online and onsite support, ensuring long-term value, operational efficiency, and measurable returns for institutions.
                                 </p>
                                 <div className="tag-wrapper">
                                     <div className="single">
-                                        <span>IT Consulting</span>
+                                        <span>Trusted Partner</span>
                                     </div>
                                     <div className="single">
-                                        <span>IT Solutions</span>
+                                        <span>Customized</span>
                                     </div>
                                     <div className="single">
-                                        <span>Consulting Services</span>
+                                        <span>Reliable</span>
                                     </div>
                                 </div>
                             </div>
@@ -204,33 +195,35 @@ function page() {
                                     Our Service Process Frequently Asked Questions
                                 </h2>
                                 <p>
-                                    We understand that every business is unique, which is why we offer
-                                    flexible pricing options to meet your specific needs.
+                                    At EduNextG India LLP, we aim to provide clear and transparent information about our solutions, services, and approach. These FAQs address common queries to help educational institutions understand how we support technology adoption, improve learning outcomes, and build long-term partnerships across India.
                                 </p>
                                 <Accordion defaultActiveKey="0">
                                     <Accordion.Item eventKey="0">
                                         <Accordion.Header>
-                                        What types of IT consulting services do you offer?
+                                        What type of solutions does EduNextG India LLP offer?
                                         </Accordion.Header>
                                         <Accordion.Body>
-                                        Each pricing plan offers a unique combination of services such as web
-                                        design, SEO, social media management, content marketing, &amp; more.
+                                        EduNextG provides comprehensive education and IT solutions, including smart class solutions, digital podiums, ERP systems, surveillance, and institutional infrastructure such as furniture, uniforms, and stationery.
                                         </Accordion.Body>
                                     </Accordion.Item>
                                     <Accordion.Item eventKey="1">
                                         <Accordion.Header>
-                                        What types of accounts can I open online?
+                                        Who can benefit from EduNextG’s services?
                                         </Accordion.Header>
                                         <Accordion.Body>
-                                        Each pricing plan offers a unique combination of services such as web
-                                        design, SEO, social media management, content marketing, &amp; more.
+                                        Our solutions are designed for schools, colleges, training institutes, and government offices seeking technology-driven, customized, and scalable education solutions.
                                         </Accordion.Body>
                                     </Accordion.Item>
                                     <Accordion.Item eventKey="2">
-                                        <Accordion.Header>Do I need to make an initial deposit?</Accordion.Header>
+                                        <Accordion.Header>Does EduNextG provide installation and ongoing support?</Accordion.Header>
                                         <Accordion.Body>
-                                        Each pricing plan offers a unique combination of services such as web
-                                        design, SEO, social media management, content marketing, &amp; more.
+                                        Yes, we offer end-to-end support including installation, maintenance, and both online and onsite technical assistance to ensure long-term reliability and performance.
+                                        </Accordion.Body>
+                                    </Accordion.Item>
+                                    <Accordion.Item eventKey="3">
+                                        <Accordion.Header>What makes EduNextG different from other education technology providers?</Accordion.Header>
+                                        <Accordion.Body>
+                                        EduNextG follows an education-first philosophy, delivers customized solutions, protects institutional investments, and builds long-term relationships focused on quality, sustainability, and measurable outcomes.
                                         </Accordion.Body>
                                     </Accordion.Item>
                                 </Accordion>

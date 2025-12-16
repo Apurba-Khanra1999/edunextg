@@ -25,8 +25,8 @@ export default function Home() {
                                     <p className="disc">
                                         At EduNextG India LLP, we don’t just create technology—we shape the future of education. Since our founding in 2017, we have been driven by the belief that education is not just a business, but a responsibility. We offer a dynamic, growth-oriented workplace where innovation, collaboration, and integrity are valued. Our team works closely with educational institutions, government offices, and industry leaders to deliver impactful, sustainable solutions. At EduNextG, you’ll find opportunities to learn, lead, and make a real difference in the lives of students and educators across India. If you are passionate about technology, education, and creating meaningful change, we invite you to grow your career with us and be part of a mission that truly matters.
                                     </p>
-                                    <a href="#" className="rts-btn btn-primary btn-bold">
-                                        Current Openings
+                                    <a href="why-choose-us" className="rts-btn btn-primary btn-bold">
+                                        Why Choose EduNextG ?
                                     </a>
                                 </div>
                             </div>
@@ -116,7 +116,7 @@ export default function Home() {
                                     <div className="vedio-icone">
                                         <a
                                             className="video-play-button play-video popup-video"
-                                            href="https://www.youtube.com/watch?v=vZE0j_WCRvI"
+                                            href="assets/videos/edunextg-video.mp4"
                                         >
                                             <span />
                                         </a>

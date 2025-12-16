@@ -26,7 +26,7 @@ function Wedo() {
                                 <p className="disc">
                                     Founded in 2017, EduNextG is an Indian technology company dedicated to revolutionizing education. They help institutions use the latest technology for effective knowledge delivery, improving the teaching-learning experience. Serving a broad clientele, including industry and government, EduNextG emphasizes that education is their primary mission, not just a business.
                                 </p>
-                                <a href="/contact" className="rts-btn btn-border btn-bold">
+                                <a href="/why-choose-us" className="rts-btn btn-border btn-bold">
                                     Get in touch
                                     <img src="assets/images/service/icons/13.svg" alt="arrow" />
                                 </a>

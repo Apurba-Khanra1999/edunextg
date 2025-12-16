@@ -18418,6 +18418,14 @@ li.has-dropdown:hover .submenu {
   color: rgba(0, 0, 0, 0.4);
   border-color: #d1d1d1;
 }
+.consulting-form select {
+  height: 56px;
+  margin-bottom: 20px;
+  border-radius: 0;
+  padding: 12px;
+  color: rgba(0, 0, 0, 0.4);
+  border-color: #d1d1d1;
+}
 .consulting-form .input-half-wrapper {
   display: flex;
   align-items: center;

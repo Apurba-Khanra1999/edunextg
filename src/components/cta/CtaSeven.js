@@ -22,7 +22,7 @@ function CtaSeven() {
                                 <h2 className="title">Let’s schedule a Free consultation</h2>
                                 <p>Let's innovate together and architect the technology of tomorrow.</p>
                                 <a
-                                    href="#"
+                                    href="/contact"
                                     className="rts-btn btn-primary wow fadeInUp"
                                     data-wow-delay=".5s"
                                     style={{

@@ -29,8 +29,8 @@ export default function Home() {
                                     <p className="disc" data-aos="fade-up" data-aos-duration="1000" data-aos-delay="300">
                                         At EduNextG India LLP, we believe every educational institution has unique challenges and goals. Our free consultation is designed to understand your specific requirements and recommend the most effective, customized education and IT solutions. With our expertise in digital education, infrastructure, and institutional systems, we help you leverage the right technology to enhance teaching, learning, and operational efficiency—without any obligation. Let’s work together to build a smarter, future-ready educational ecosystem.
                                     </p>
-                                    <a href="/career" className="rts-btn btn-primary btn-bold" data-aos="fade-up" data-aos-duration="1000" data-aos-delay="300">
-                                        Current Openings
+                                    <a href="/about" className="rts-btn btn-primary btn-bold" data-aos="fade-up" data-aos-duration="1000" data-aos-delay="300">
+                                        Know More About Us
                                     </a>
                                 </div>
                             </div>
@@ -121,7 +121,7 @@ export default function Home() {
                                         <div className="right-area">
                                             <h4 className="title">Discovery Phase</h4>
                                             <p>
-                                                Understanding your business <br /> goals and challenges.
+                                                Understanding your business <br /> goals and challenges for precise, effective solutions.
                                             </p>
                                         </div>
                                         <div className="timeline-dot">
@@ -135,7 +135,7 @@ export default function Home() {
                                         <div className="right-area">
                                             <h4 className="title">Analysis</h4>
                                             <p>
-                                                Starting in knowing your business <br /> goals and challenges.
+                                                Starting in knowing your business goals and challenges.
                                             </p>
                                         </div>
                                         <div className="timeline-dot">
@@ -147,8 +147,10 @@ export default function Home() {
                                             <img src="assets/images/consultancy/free-2.jpg" alt="consulting" />
                                         </div>
                                         <div className="right-area">
-                                            <h4 className="title">Strategy Design</h4>
-                                            <p>Crafting a customized IT roadmap.</p>
+                                            <h4 className="title">Implementation</h4>
+                                            <p>
+                                                Deploy solutions seamlessly with expert technical support.
+                                            </p>
                                         </div>
                                         <div className="timeline-dot">
                                             <div className="time-line-circle" />
@@ -159,9 +161,9 @@ export default function Home() {
                                             <img src="assets/images/consultancy/free-1.jpg" alt="consulting" />
                                         </div>
                                         <div className="right-area">
-                                            <h4 className="title">Implementation</h4>
+                                            <h4 className="title">Support</h4>
                                             <p>
-                                                Understanding your business <br /> goals and challenges.
+                                                Ensure continuous performance through dedicated ongoing assistance.
                                             </p>
                                         </div>
                                         <div className="timeline-dot">

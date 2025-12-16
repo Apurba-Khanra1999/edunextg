@@ -10,9 +10,9 @@ function CtaFive() {
                     <div className="row">
                         <div className="col-lg-12">
                             <div className="call-to-action-bg-dark-area">
-                                <h3 className="title">Start your Free Trial</h3>
-                                <p>Offers a 30-day free trial of Luminous Managed IT Services.</p>
-                                <a href="#" className="rts-btn btn-primary wow fadeInUp">
+                                <h3 className="title">Book a Free Consultation</h3>
+                                <p>Let’s connect to transform education with innovative, reliable, and future-ready technology solutions tailored for your institution.</p>
+                                <a href="/free-consultation" className="rts-btn btn-primary wow fadeInUp">
                                     Schedule Now
                                     <img
                                         className="injectable"

@@ -17,13 +17,12 @@ function ServiceList() {
               <img src="assets/images/service/icons/42.svg" alt="service" />
             </div>
             <div className="main-information-area">
-              <h3 className="title">NodeJS Development</h3>
+              <h3 className="title">Hardware Products</h3>
               <p className="disc">
-                Offers a unified platform that fosters innovation while
-                providing end-to-end data management.
+                Smart classrooms, digital podiums, surveillance, and display solutions enhancing modern teaching environments.
               </p>
             </div>
-            <a href="#" className="arrow-btn">
+            <a href="products/hardware" className="arrow-btn">
               <img src="assets/images/service/icons/13.svg" alt="service" />
             </a>
           </div>
@@ -36,13 +35,12 @@ function ServiceList() {
               <img src="assets/images/service/icons/43.svg" alt="service" />
             </div>
             <div className="main-information-area">
-              <h3 className="title">Softwares, Apps Design</h3>
+              <h3 className="title">Software Products</h3>
               <p className="disc">
-                Offers a unified platform that fosters innovation while
-                providing end-to-end data management.
+                ERP systems and digital platforms streamlining academic and administrative operations efficiently.
               </p>
             </div>
-            <a href="#" className="arrow-btn">
+            <a href="products/software" className="arrow-btn">
               <img src="assets/images/service/icons/13.svg" alt="service" />
             </a>
           </div>
@@ -55,32 +53,12 @@ function ServiceList() {
               <img src="assets/images/service/icons/44.svg" alt="service" />
             </div>
             <div className="main-information-area">
-              <h3 className="title">Strategy Marketing</h3>
+              <h3 className="title">Services Products</h3>
               <p className="disc">
-                Offers a unified platform that fosters innovation while
-                providing end-to-end data management.
+                End-to-end consultation, installation, maintenance, and reliable onsite and online technical support.
               </p>
             </div>
-            <a href="#" className="arrow-btn">
-              <img src="assets/images/service/icons/13.svg" alt="service" />
-            </a>
-          </div>
-          <div
-            className="single-service-list wow fadeInUp"
-            data-wow-offset={120}
-            data-wow-delay=".8s"
-          >
-            <div className="icon">
-              <img src="assets/images/service/icons/45.svg" alt="service" />
-            </div>
-            <div className="main-information-area">
-              <h3 className="title">A/B Testing</h3>
-              <p className="disc">
-                Offers a unified platform that fosters innovation while
-                providing end-to-end data management.
-              </p>
-            </div>
-            <a href="#" className="arrow-btn">
+            <a href="products/services" className="arrow-btn">
               <img src="assets/images/service/icons/13.svg" alt="service" />
             </a>
           </div>
